@@ -5,7 +5,7 @@ int main()  // main function
 
 {            //Everything which we write in this semicolons is known as block (LOGICALLY CONNECTED STATEMENTS)
 
-    cout << "Hey Welcome !!";
+    cout << "Hey " <<endl << " Welcome !!";
     return 0;
 }
 
@@ -16,6 +16,7 @@ int main()  // main function
 
 // {
 
-//     std::cout << "Hey Welcome !!";
+//     std::cout << "Hey" << std::endl << "Welcome !!";
 //     return 0;
 // }
+
