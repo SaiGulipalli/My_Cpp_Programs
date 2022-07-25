@@ -10,4 +10,4 @@ int main()
     cout << "Your age is :" << age; 
     return 0;
 
-}
+} 
